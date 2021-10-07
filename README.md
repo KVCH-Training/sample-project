@@ -19,6 +19,8 @@
           branch VARCHAR(10));
 
  - Update the username and password in the **application.conf** file ().
+ - User Name @ https://github.com/KVCH-Training/sample-project/blob/main/src/main/resources/application.conf#L11
+ - Password @ https://github.com/KVCH-Training/sample-project/blob/main/src/main/resources/application.conf#L12
 
 ## Supported Operation
 
